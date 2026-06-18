@@ -1,8 +1,10 @@
+
 # Swing Ride Simulation
 
 A custom swing ride attraction with a rigged ride vehicle. 
 
 <img width="357" height="275" alt="Screenshot 2026-06-17 at 9 37 55 PM" src="https://github.com/user-attachments/assets/7b4fa333-c722-43e3-8b10-e987eb369b45" />
+<img width="396" height="307" alt="Screenshot 2026-06-17 at 9 57 36 PM" src="https://github.com/user-attachments/assets/e6782551-d393-4262-918f-1c3ddc82ca60" />
 
 ## Overview
 
